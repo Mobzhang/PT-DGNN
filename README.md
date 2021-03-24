@@ -7,7 +7,7 @@ Our article is [PT-DGNN](https://arxiv.org/abs/2102.12380) and the code is modif
 * python 3.6
 * Ubuntu 18.04.5 LTS
 * torch 1.4.0+cu100
-* more packages in requirements.txt
+* more packages are in requirements.txt
 
 ## Runing example
 
