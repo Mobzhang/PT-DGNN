@@ -1,6 +1,6 @@
 # Pretraining on Dynamic Graph Neural Networks
 
-Our article is in XXX, and the code is improved based on XXX
+Our article is [PT-DGNN](https://arxiv.org/abs/2102.12380) and the code is modified based on [GPT-GNN](https://github.com/acbull/GPT-GNN)
 
 ## Requirements
 
